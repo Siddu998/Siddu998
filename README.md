@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Siddu998
-- 👀 I’m interested in python automation
-- 🌱 I’m currently learning automaton
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me siddu.t998@gmail.com
+# Hi, I'm Nagaraju Dasi 👋
 
-<!---
-Siddu998/Siddu998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior QA Automation Lead with 8+ years of experience in building scalable automation frameworks and modern quality engineering solutions for SaaS enterprise applications.
+
+## Expertise
+- Playwright Automation
+- TypeScript / JavaScript
+- API & UI Automation
+- Scalable Framework Architecture
+- POM & Modular Framework Design
+- Integration Testing
+- Agile & Rally
+- AI-assisted Testing using Cursor & MCP
+
+## Current Focus
+Building enterprise-grade Playwright automation frameworks with reusable architecture, API integration, and scalable automation practices.
+
+## Tech Stack
+Playwright | TypeScript | JavaScript | API Testing | UI Automation | Rally | Cursor AI | MCP
+
+## Connect With Me
+- LinkedIn: Add your LinkedIn URL
+- GitHub: https://github.com/nagaraju-dasi
