@@ -19,5 +19,5 @@ Building enterprise-grade Playwright automation frameworks with reusable archite
 Playwright | TypeScript | JavaScript | API Testing | UI Automation | Rally | Cursor AI | MCP
 
 ## Connect With Me
-- LinkedIn: Add your LinkedIn URL
+- LinkedIn:https://www.linkedin.com/in/nagaraju-qaautomation?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - GitHub: https://github.com/nagaraju-dasi
